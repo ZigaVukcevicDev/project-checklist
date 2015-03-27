@@ -1,9 +1,11 @@
-# project-checklist
+project-checklist
+=====
 
 ##Open source software
+-----
 
-*setting up open source software (e.g. Wordpress, Magento)
-*setting up and onfiguring template
+- setting up open source software (e.g. Wordpress, Magento)
+- setting up and onfiguring template
 
 ##Initial set up
 
@@ -29,11 +31,11 @@
 ** platforms (Android, iOS iPhone/iPad)
 ** browsers (Chrome, Firefox, Safari, Internet Explorer 9+)
 
-##Deadline due
-some date
+##Deadline
+due some date
 
-#Paying terms 
+##Paying terms 
 some paying terms
 
-#Work starts at
+##Work starts at
 some date
