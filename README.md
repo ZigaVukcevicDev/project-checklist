@@ -6,8 +6,8 @@ Useful for creating estimates or doing checklist within project building.
 
 - setting up open source software (e.g. Wordpress, Magento)
   - copying files to FTP account
-⋅⋅* creating database
-⋅⋅* installing software
+  - creating database
+  - installing software
 - setting up and configuring template
 
 ##Initial set up
