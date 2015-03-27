@@ -12,20 +12,20 @@ Useful for creating estimates or doing checklist within project building.
   - installing software
 - setting up and configuring template
 
-###Version controling, automating tools
+###Version controlling, automating tools
 
-- Git repository for project version controlling
-- automating tools as Grunt (e.g. watch, livereload, HTML and CSS validation, CSS/JS minify, Less compiler, deployment)
+- Git repository for project version controlling (GitHub or BitBucket)
+- automating tool Grunt (e.g. watch, livereload, HTML and CSS validation, CSS/JS minify, Less compiler, deployment)
 
 ##Content
 - inserting content, HTML markup 
-- inserting pictures, slicing up, size optmization
+- inserting pictures, slicing up, size optimization
 - forms
 
-##Modifing
+##Modifying
 - pages or posts
 - logo
-- colours
+- colors
 - typography
 - forms
 - buttons
