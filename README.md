@@ -2,7 +2,9 @@
 
 Useful for creating estimates or doing checklist within project building.
 
-##Open source software
+##Initial set up
+
+###Open source software
 
 - setting up open source software (e.g. Wordpress, Magento)
   - copying files to FTP account
@@ -10,9 +12,10 @@ Useful for creating estimates or doing checklist within project building.
   - installing software
 - setting up and configuring template
 
-##Initial set up
+###Version controling, automating tools
 
-- creating GIT repository for project version controlling
+- Git repository for project version controlling
+- automating tools as Grunt (e.g. watch, livereload, HTML and CSS validation, CSS/JS minify, Less compiler, deployment)
 
 ##Content
 - inserting content, HTML markup 
