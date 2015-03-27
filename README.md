@@ -5,7 +5,7 @@ Useful for creating estimates or doing checklist within project building.
 ##Open source software
 
 - setting up open source software (e.g. Wordpress, Magento)
-⋅⋅* copying files to FTP account
+⋅⋅- copying files to FTP account
 ⋅⋅* creating database
 ⋅⋅* installing software
 - setting up and configuring template
