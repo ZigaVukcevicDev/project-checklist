@@ -12,9 +12,10 @@ Useful for creating estimates or doing checklist within project building.
   - installing software
 - setting up and configuring template
 
-###Version controlling, automating tools
+###Project environment
 
 - Git repository for project version controlling (GitHub or BitBucket)
+- CSS/JS frameworks (e.g. Bootstrap, AngularJS, jQuery)
 - automating tool Grunt (e.g. watch, livereload, HTML and CSS validation, CSS/JS minify, Less compiler, deployment)
 
 ##Content
