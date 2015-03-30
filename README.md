@@ -21,7 +21,7 @@ Useful for creating estimates or doing checklist within project building.
 ##Content
 - inserting content, HTML markup 
 - inserting pictures, slicing up, size optimization
-- forms
+- forms, validation
 
 ##Modifying
 - pages or posts
